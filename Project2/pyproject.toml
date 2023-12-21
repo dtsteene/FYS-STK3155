@@ -1,0 +1,17 @@
+[build-system]
+requires = [
+    "setuptools>=61",
+]
+build-backend = "setuptools.build_meta"
+
+[project]
+version = "2023.11.12"
+requires-python = ">=3.10"
+license = {text = "MIT License"}
+name = "project2"
+readme = "README.md"
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+# read dependencies from requirements.txt
+dependencies ={file = "requirements.txt"}

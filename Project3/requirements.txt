@@ -1,0 +1,10 @@
+jax==0.4.17
+jaxlib==0.4.17
+line_profiler==4.1.1
+matplotlib==3.8.0
+numpy==1.26.0
+pandas==2.1.2
+scikit_learn==1.2.2
+seaborn==0.13.0
+tqdm==4.65.0
+tensorflow==2.14.0

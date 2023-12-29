@@ -1,8 +1,7 @@
 # Numerical Solutions of The Heat Equation
 
 Install package using
-```
-zsh
+```zsh
 pip3 install .
 ```
 ## Abstract

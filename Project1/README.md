@@ -1,4 +1,4 @@
-# Regression analysis and resampling methods applied to Franke’s Function and Topographical data
+# Linear Regression and resampling methods applied to Franke’s Function and Topographical data
 
 ## Abstract 
 In this project, we aim to employ various linear regression methods, including Ordinary Least Squares, Ridge, and Lasso, to analyze a set of terrain
